@@ -30,7 +30,7 @@ duration = 0;
 
 function recalculate(){
     let costLabel = document.getElementById("calculated-cost");
-    if (modelName == "Model XYZ") costLabel.innerHTML = (duration * 100).toFixed(2);
+    if (modelName == "XYZ") costLabel.innerHTML = (duration * 100).toFixed(2);
     else costLabel.innerHTML = (duration * 213).toFixed(2);
 }
 
