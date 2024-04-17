@@ -11,8 +11,8 @@ You are encouraged to use the provided naming convention for ease of review.
 
 // INSERT YOUR CODE HERE
 
-modelName = "XYZ";
-duration = 0;
+let modelName = "XYZ";
+let duration = 0;
 
 
 
